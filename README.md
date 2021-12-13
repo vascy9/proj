@@ -1,2 +1,2 @@
 # proj
-MSc Projecy
+MSc Project
